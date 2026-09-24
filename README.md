@@ -9,7 +9,9 @@ El ps/2 del mouse consta de un conector de 5 o 6 pines (dependiendo del disposit
 
 <img src="imagenes/conexiones2.png" width="300" alt="Conexiones del dispositivo ps/2">
 
-Cuando el ratón PS2 envía información, debe enviar tres paquetes de datos consecutivos. Cada paquete contiene información diferente sobre el botón pulsado, el movimiento y la dirección del mismo. La tabla siguiente muestra la información que se envía en cada paquete. Tenga en cuenta que esta información es general y puede variar según el fabricante. Esto se aplica a un ratón de dos botones; la asignación de bits para otros tipos de ratones (de tres botones o con rueda de desplazamiento) es diferente y no se incluye aquí.
+Cuando el ratón PS2 envía información, debe enviar tres paquetes de datos consecutivos. Cada paquete contiene información diferente sobre el botón pulsado, el movimiento y la dirección del mismo. La tabla siguiente muestra la información que se envía en cada paquete.
+
+Hay que tener en cuenta que esta información es general y puede variar según el fabricante. Esto se aplica a un ratón de dos botones; la asignación de bits para otros tipos de ratones (de tres botones o con rueda de desplazamiento) es diferente.
 
 ## Lista de paquetes de datos e informacion que envia el raton
 
